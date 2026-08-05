@@ -1,0 +1,41 @@
+{
+    "isim": "Başak Durmuş",
+    "doğum_tarihi": "23 Nisan 2005",
+    "şehir": "Malatya",
+    "üniversite": "Fırat Üniversitesi",
+    "bölüm": "Bilgisayar Mühendisliği",
+    "ilgi_alanları": [
+        "Yapay Zeka",
+        "Gömülü Sistemler",
+        "Otomotiv Teknolojileri",
+        "Doğal Dil İşleme",
+        "Makine Öğrenmesi",
+        "Derin Öğrenme"
+    ],
+    "teknolojiler": [
+        "Python",
+        "C/C++",
+        "JavaScript",
+        "React"
+    ],
+    "hobiler": [
+        "Gitar çalmak ve müzik",
+        "Şiir yazmak ve söz yazarlığı",
+        "Yapay zeka projeleri geliştirmek",
+        "Kod yazmak ve yeni teknolojiler öğrenmek",
+        "Otomotiv teknolojileri ve araç elektroniği",
+        "Roket, robotik ve gömülü sistem projeleri",
+        "Teknik araştırmalar yapmak",
+        "Teknoloji ve mühendislik içerikleri takip etmek",
+        "Yeni uygulamalar ve projeler denemek"
+    ],
+    "hedef": "Otomotiv sektöründe araçların elektronik sistemleri ve yazılım altyapıları üzerinde uzmanlaşmış bir embedded software engineer (gömülü yazılım mühendisi) olmak ve TEKNOFEST gibi yarışmalarda projeler üretmek.",
+    "öğrenme_tarzı": "Ezberlemekten çok yapmaya odaklanan, işin mantığını ve algoritmasını çözmeyi seven, teorik konuları projeler üzerinden öğrenen bir yapım var.",
+    "kişilik": "Duygusal, hassas ama mücadeleci, meraklı, araştırmacı, sanata ve müziğe ilgi duyan birisiyim. Motivasyonum düşse bile tamamen bırakmak yerine tekrar toparlanıp devam etmeye çalışırım.",
+    "güçlü_yönler": "Meraklı, araştırmacı, vazgeçmeden tekrar deneyen, hem teknik hem yaratıcı tarafı birlikte taşıyan, proje üretme isteği yüksek ve yeni alanlara hızlı adapte olabilen birisiyim.",
+    "geliştirilmesi_gerekenler": "Kendime daha fazla güvenmeli, aynı anda çok fazla alana bölünmemeli, İngilizcemi ve teorik/matematik altyapımı güçlendirmeli ve büyük hedefleri küçük adımlara bölerek ilerlemeliyim.",
+    "en_sevilen_siir": "Üçüncü Şahsın Şiiri",
+    "en_sevilen_sarki": "Bu aralar bütün şarkıları dinliyorum aslında, her telden var, tam kestiremedim ben de 😅",
+    "en_sevilen_yemek": "Pek de yemek ayrımı yapmıyorum ya maşallah diyeyim dnjdsn 😄 her şeyi severim.",
+    "idol": "Mustafa Kemal Atatürk"
+}
