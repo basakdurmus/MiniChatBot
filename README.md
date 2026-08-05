@@ -1,16 +1,127 @@
-# React + Vite
+#  BaşakGPT | Generative AI & LLM Powered Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+BaşakGPT, Google Gemini Large Language Model (LLM) üzerine geliştirilmiş, modern Generative AI teknolojilerini kullanan kişiselleştirilmiş bir yapay zekâ asistanıdır.
 
-Currently, two official plugins are available:
+Proje; Natural Language Processing (NLP), Prompt Engineering ve Large Language Models kavramlarını modern web teknolojileri ile birleştirerek gerçek zamanlı, bağlam farkındalığına sahip akıllı bir sohbet deneyimi sunmaktadır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Amaç; LLM tabanlı uygulama geliştirme, AI servis entegrasyonu ve modern AI sistem mimarileri konusunda pratik deneyim kazanmaktır.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+#  AI Technologies
 
-## Expanding the Oxlint configuration
+- Large Language Models (LLM)
+- Generative AI
+- Natural Language Processing (NLP)
+- Prompt Engineering
+- Context-Aware Response Generation
+- Persona-Based AI
+- AI API Integration
+- Conversational AI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+# ⚙️ Tech Stack
+
+### Artificial Intelligence
+
+- Google Gemini Flash
+- Generative AI
+- Large Language Models
+- NLP
+- Prompt Engineering
+
+### Backend
+
+- Python
+- FastAPI
+- REST API
+- Uvicorn
+
+### Frontend
+
+- React.js
+- Vite
+- JavaScript
+
+### Development
+
+- JSON
+- Environment Variables
+- Git
+- API Integration
+
+---
+
+#  Features
+
+- 🤖 AI-powered conversational assistant
+- 🧠 LLM-based response generation
+- 💬 Human-like natural conversations
+- 🎭 Dynamic persona management
+- ⚡ FastAPI AI Backend
+- 🌐 React Frontend
+- 🔐 Secure API Key Management
+- 📦 Modular AI Architecture
+
+---
+
+#  AI System Architecture
+
+```
+User
+
+↓
+
+React Frontend
+
+↓
+
+FastAPI REST API
+
+↓
+
+Prompt Engineering
+
+↓
+
+Google Gemini LLM
+
+↓
+
+AI Response Generation
+
+↓
+
+Frontend
+```
+
+---
+
+# AI Concepts Used
+
+- Natural Language Processing
+- Large Language Models
+- Prompt Engineering
+- Conversational AI
+- Context Management
+- Persona Engineering
+- AI API Integration
+- AI Backend Development
+
+---
+
+#  Future AI Improvements
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (FAISS / ChromaDB)
+- Semantic Search
+- Embedding Models
+- LangChain
+- LangGraph
+- AI Agents
+- Function Calling
+- Tool Calling
+- Multi-LLM Support
+- Memory-Augmented AI
+- Fine-Tuning
