@@ -55,14 +55,14 @@ Amaç; LLM tabanlı uygulama geliştirme, AI servis entegrasyonu ve modern AI si
 
 #  Features
 
-- 🤖 AI-powered conversational assistant
-- 🧠 LLM-based response generation
-- 💬 Human-like natural conversations
-- 🎭 Dynamic persona management
-- ⚡ FastAPI AI Backend
-- 🌐 React Frontend
-- 🔐 Secure API Key Management
-- 📦 Modular AI Architecture
+-  AI-powered conversational assistant
+-  LLM-based response generation
+-  Human-like natural conversations
+-  Dynamic persona management
+-  FastAPI AI Backend
+-  React Frontend
+-  Secure API Key Management
+- Modular AI Architecture
 
 ---
 
